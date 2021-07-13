@@ -1,0 +1,18 @@
+html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
+body { background: #1c1c1c; font-family: monospace; font-size: 14px; letter-spacing: 1px; line-height: 2em; }
+section { box-sizing: border-box; padding: 1em; color: #eee; }
+article { max-width: 900px; width: 100%; }
+h1,h2,h3,h4,h5,h6 { margin: 1.5em 0; }
+strong { color: #fff; }
+p,blockquote { font-size: 1em; margin: 1.5em 0; }
+code { background: #333; color: #00ffaa; padding: .25em .6em; border-radius: 5px; }
+a { color: #00ffaa; font-weight: 700; text-decoration: none; border-bottom: solid 1px #00ffaa; padding-bottom: 2px; }
+a:hover { color: #fff; border-color: #fff; }
+h1 a { border-color: transparent; }
+ol { padding-left: 2.5em; list-style-type: decimal-leading-zero; }
+ul { padding-left: 1em;}
+ul li { padding-left: 1.25em;  }
+blockquote { padding-left: 1em; border-left: solid 2px #666; }
+.blank { letter-spacing: -1px; }
+.emoji { display: inline-block; width: 20px; }
+pre { background: #333; border-radius: 4px; padding: 1em 2em; overflow-x: scroll; display: block; }
